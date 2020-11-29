@@ -1,5 +1,5 @@
 # Hey!
-This was a fun course. I loved how much importance was given to the intuition behind the algorithms and the importance given to actul use of these algorithms.
+This was a fun course. I loved how much importance was given to the intuition behind the algorithms and to the actual use of these algorithms.
 
 [Course Link](https://www.coursera.org/learn/machine-learning)
 
